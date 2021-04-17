@@ -1,10 +1,10 @@
 {
-  "name": " ",
+  "name": "blog",
   "version": "0.0.1",
-  "description": "",
-  "keywords": "",
-  "license": "",
-  "author": "",
+  "description": "blog demo",
+  "keywords": "blog",
+  "license": "MIT",
+  "author": "tw.huang",
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",
